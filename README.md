@@ -1,7 +1,7 @@
-Algorithms
+Sorts
 ==========
 
-Algorithms and Data Structures
+Different sorts implementation on C/C++
 
 
 Bubble sort on lists
